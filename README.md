@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8b02ff04-828a-4866-8012-2d8372fa1432/deploy-status)](https://app.netlify.com/sites/shop5s/deploys)
 <!DOCTYPE html>
 <html lang="vi">
 <head>
